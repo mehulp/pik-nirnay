@@ -1,0 +1,18 @@
+{
+  "app.title": "पीक निर्णय",
+  "app.tagline": "पेरणीपूर्व हवामान आणि आर्थिक जोखीम मार्गदर्शक",
+  "app.disclaimer": "ही एक शैक्षणिक/संशोधन प्रोटोटाइप आहे. हा निर्णय-सहाय्य आहे, हमी दिलेला कृषी किंवा आर्थिक सल्ला नाही.",
+  "language.marathi": "मराठी",
+  "language.english": "इंग्रजी",
+  "soil.shallow_black": "उथळी काळी जमीन",
+  "soil.medium_black": "मध्यम काळी जमीन",
+  "soil.deep_black": "खोल काळी जमीन",
+  "irrigation.none": "सिंचनाची सुविधा नाही",
+  "risk.low": "कमी धोका",
+  "risk.medium": "मध्यम धोका",
+  "risk.high": "जास्त धोका",
+  "result.why": "हे का दाखवले आहे?",
+  "action.recalculate": "परिस्थिती बदलून पुन्हा पाहा",
+  "status.ok": "व्यवस्थित सुरू आहे",
+  "status.degraded": "अंशतः उपलब्ध"
+}

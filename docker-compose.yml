@@ -1,0 +1,17 @@
+services:
+  postgres:
+    # PostGIS is not needed yet — V1 uses a curated Dharashiv location list,
+    # not field-level geospatial data (see docs/product/PRD.md, section 5).
+    # Switch to `postgis/postgis:16-3.4` if/when geospatial queries are added.
+    image: postgres:16
+    environment:
+      POSTGRES_USER: pik_nirnay
+      POSTGRES_PASSWORD: pik_nirnay
+      POSTGRES_DB: pik_nirnay
+    ports:
+      - "5432:5432"
+    volumes:
+      - pik_nirnay_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  pik_nirnay_postgres_data:

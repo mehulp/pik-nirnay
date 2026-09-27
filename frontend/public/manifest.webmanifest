@@ -1,0 +1,11 @@
+{
+  "name": "Pik Nirnay",
+  "short_name": "Pik Nirnay",
+  "description": "Pre-sowing climate and financial risk decision support (educational/research prototype)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b5e20",
+  "lang": "mr",
+  "icons": []
+}
